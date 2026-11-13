@@ -1,0 +1,8 @@
+{
+  "name": "Aurelia Atelier — Luxury Wedding & Event Planning",
+  "description": "Bespoke wedding and event management company crafting timeless celebrations, decor, and unforgettable memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
